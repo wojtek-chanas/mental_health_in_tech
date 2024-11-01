@@ -6,14 +6,14 @@ This project explores mental health in technology-related jobs, with the aim of 
 ## Goal
 The main goal is to:
 
-> Wrangle and preprocess the data to handle missing values and categorical variables.
-> Apply clustering techniques to categorize survey participants based on their responses.
-> Visualize and interpret the clusters to help identify potential points of leverage for HR interventions aimed at improving mental health at the workplace.
+- Wrangle and preprocess the data to handle missing values and categorical variables.
+- Apply clustering techniques to categorize survey participants based on their responses.
+- Visualize and interpret the clusters to help identify potential points of leverage for HR interventions aimed at improving mental health at the workplace.
 ## Steps and Approach
-> Data Preprocessing: Handled missing values, performed feature encoding, and reduced dimensionality using PCA.
-> Clustering: Used K-Means clustering on principal components to categorize participants, evaluated using silhouette scores.
-> Analysis of Clusters: Visualized and analyzed key features contributing to each cluster, examining both numerical and categorical data.
-> Visualization: Created plots to showcase cluster characteristics, such as job role frequencies, and other significant features.
+- Data Preprocessing: Handled missing values, performed feature encoding, and reduced dimensionality using PCA.
+- Clustering: Used K-Means clustering on principal components to categorize participants, evaluated using silhouette scores.
+- Analysis of Clusters: Visualized and analyzed key features contributing to each cluster, examining both numerical and categorical data.
+- Visualization: Created plots to showcase cluster characteristics, such as job role frequencies, and other significant features.
 
 ## Requirements
 The project is implemented in Python. The following libraries are required:
