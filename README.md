@@ -17,10 +17,10 @@ The main goal is to:
 
 ## Requirements
 The project is implemented in Python. The following libraries are required:
-> pandas
-> numpy
-> scikit-learn
-> matplotlib
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
 
 You can install all dependencies with:
 ```console
